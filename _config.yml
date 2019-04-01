@@ -108,16 +108,13 @@ analytics:
 author:
   name             : "João Paulo Soares"
   avatar           : "/assets/images/bio-photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "As an entrepreneur I believe in solving real problems with a Lean methodology, going out of the building to understand with customers what are there problems.
-
-As a developer I believe that software is alive. Is not a building that you will create as fast as you can and it will stand still for years. It grows constantly so velocity and quality must always be balanced wisely.
-"
+  bio              : "As an entrepreneur I believe in solving real problems with a Lean methodology, going out of the building to understand with customers what are there problems. <br> <br> As a developer I believe that software is alive. Is not a building that you will create as fast as you can and it will stand still for years. It grows constantly so velocity and quality must always be balanced wisely."
   location         : "São Paulo, Brasil"
   email            : "JpSoares106@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: mailto:jpsoares106@gmail.com
+      # url: mailto:jpsoares106@gmail.com
    # - label: "Website"
    #   icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
