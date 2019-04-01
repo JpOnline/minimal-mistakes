@@ -116,7 +116,7 @@ author:
       icon: "fas fa-fw fa-envelope"
       url: mailto:JpSoares106@gmail.com
     - label: "LinkedIn"
-      icon: "fas fa-fw fa-linkedin"
+      icon: "fab fa-fw fa-linkedin-in"
       url: "https://linkedin.com/in/joaopaulosoares"
     - label: "Stack Overflow"
       icon: "fab fa-fw fa-stack-overflow"
