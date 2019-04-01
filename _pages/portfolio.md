@@ -19,6 +19,5 @@ Esse é um projeto que utiliza Ruby on Rails no backend e Clojurescript on [Re-f
 
 ![loading screen gif](/site/assets/images/portfolio/blog_loading-posts.gif){: .align-left}
 <img alt="state machine example" class="align-right" width="550" src="/site/assets/images/portfolio/blog_state_machine.png">
-![state machine example](/site/assets/images/portfolio/blog_state_machine.png){: .align-right}
 
 Confira os [protótipos interativos](https://jponline.github.io/Clojurescript-and-Rails-Blog/cards#!/frontend.views_prototypes) realizados antes da conclusão do projeto, com eles é possível ter um feedback mais rápido sobre as espectativas da interface. Com diagramas de máquinas de estado também é possível ter um feedback sobre a interação do App como um todo.
