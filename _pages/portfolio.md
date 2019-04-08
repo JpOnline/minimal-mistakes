@@ -13,7 +13,7 @@ Esse é um projeto que utiliza Ruby on Rails no backend e Clojurescript on [Re-f
 
 ## Protótipos interativos
 
-![App e protótipos gif](/site/assets/images/blog_app_prototipos.gif){: .align-center}
+![Blog App e protótipos gif](/site/assets/images/portfolio/blog_app_prototipos.gif){: .align-center}
 
 Confira os [protótipos interativos](https://jponline.github.io/Clojurescript-and-Rails-Blog/cards#!/frontend.views_prototypes) realizados antes da conclusão do projeto, com eles é possível ter um feedback mais rápido sobre as espectativas da interface. Com diagramas de máquinas de estado também é possível ter um feedback sobre a interação do App como um todo.
 
