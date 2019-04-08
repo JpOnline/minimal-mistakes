@@ -11,13 +11,15 @@ Esse é um projeto que utiliza Ruby on Rails no backend e Clojurescript on [Re-f
 - Acesse-o [aqui](https://jponline.github.io/Clojurescript-and-Rails-Blog/)
 - [Código fonte](https://github.com/JpOnline/Clojurescript-and-Rails-Blog/)
 
-## Protótipos interativos
-
-![Blog App e protótipos gif](/site/assets/images/portfolio/blog_app_prototipos.gif){: .align-center}
+| ![Blog App e protótipos gif](/site/assets/images/portfolio/blog_app_prototipos.gif){: .align-center} | 
+|:--:| 
+| _**App** a esquerda e **protótipos interativos** à esquerda._ |
 
 Confira os [protótipos interativos](https://jponline.github.io/Clojurescript-and-Rails-Blog/cards#!/frontend.views_prototypes) realizados antes da conclusão do projeto, com eles é possível ter um feedback mais rápido sobre as espectativas da interface. Com diagramas de máquinas de estado também é possível ter um feedback sobre a interação do App como um todo.
 
-<img alt="state machine example" class="align-center" src="/site/assets/images/portfolio/state_machine.png">
+| <img alt="state machine example" class="align-center" src="/site/assets/images/portfolio/state_machine.png"> | 
+|:--:| 
+| _Diagrama de Estados que auxilia no planejamento e implementação da interface._ |
 
 ___
 
