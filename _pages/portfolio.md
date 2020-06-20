@@ -1,10 +1,12 @@
 ---
 layout: single
-title: Blog em Clojurescript e Rails
+title: Portfolio
 author_profile: true
 classes: wide
 permalink: /
 ---
+
+## Blog em Clojurescript e Rails
 
 Esse é um projeto que utiliza Ruby on Rails no backend e Clojurescript on [Re-frame](https://github.com/Day8/re-frame) no frontend. Ele possui um design *mobile first* no estilo [PWA](https://developers.google.com/web/progressive-web-apps/) (Progressive Web Application)
 
