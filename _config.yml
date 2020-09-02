@@ -83,7 +83,7 @@ naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               :
+  username               : Jp0nline
 facebook:
   username               :
   app_id                 :
@@ -95,6 +95,7 @@ social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
+    - "https://twitter.com/jp0nline"
 
 # Analytics
 analytics:
@@ -108,8 +109,8 @@ analytics:
 author:
   name             : "João Paulo Soares"
   avatar           : "/assets/images/bio-photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "As an entrepreneur I believe in solving real problems with a Lean methodology, going out of the building to understand with customers what are there problems. <br> <br> As a developer I believe that software is alive. Is not a building that you will create as fast as you can and it will stand still for years. It grows constantly so velocity and quality must always be balanced wisely."
-  location         : "São Paulo, Brasil"
+  bio              : "As an entrepreneur I believe in solving real problems with a Lean methodology, going out of the building to understand with customers what there problems are. <br> <br> As a developer I believe that software is alive. It grows constantly so velocity and quality must always be balanced wisely."
+  location         : "Brasil"
   # email            : "JpSoares106@gmail.com"
   links:
     - label: "Email"
@@ -118,6 +119,9 @@ author:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin-in"
       url: "https://linkedin.com/in/joaopaulosoares"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/jp0nline"
     - label: "Stack Overflow"
       icon: "fab fa-fw fa-stack-overflow"
       url: "https://stackoverflow.com/users/3646180/jp"
@@ -136,7 +140,7 @@ footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url:
+      url: "https://twitter.com/jp0nline"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url:
