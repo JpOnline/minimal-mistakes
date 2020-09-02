@@ -1,8 +1,10 @@
 ---
 title:  "An Architecture for Community Contribution, Speed and Modularity"
 last_modified_at: 2020-08-22
+excerpt: "Details of how I'm planning Looset's architecture."
 header:
-  image: /assets/images/posts/cells.jpg
+  overlay_image: /assets/images/posts/cells.jpg
+  teaser: /assets/images/posts/cells.jpg
 toc: true
 ---
 
