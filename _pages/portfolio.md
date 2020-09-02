@@ -6,22 +6,34 @@ classes: wide
 permalink: /
 ---
 
+## Looset
+
+A family of tools to visualize big or complex codebases. Looset Diagram automatically generate diagrams from source code of any language. It generates an interactive graph of call references.
+
+- [Landing Page](https://jponline.github.io/looset-landing/)
+- [Functional MVP](https://jponline.github.io/looset-landing/functional-mvp)
+- [Functional MVP Source Code](https://github.com/JpOnline/looset-diagram-mvp)
+
+| ![Looset Diagram gif](/site/assets/images/portfolio/looset-diagram.gif){: .align-center} |
+|:--:|
+| _Automatically generated diagrams with a panel to hide inner structures and another panel to labels to code blocks._ |
+
 ## Blog em Clojurescript e Rails
 
-Esse é um projeto que utiliza Ruby on Rails no backend e Clojurescript on [Re-frame](https://github.com/Day8/re-frame) no frontend. Ele possui um design *mobile first* no estilo [PWA](https://developers.google.com/web/progressive-web-apps/) (Progressive Web Application)
+A project using Ruby on Rails in the backend and Clojurescript with [Re-frame](https://github.com/Day8/re-frame) in the frontend. It's a [PWA](https://developers.google.com/web/progressive-web-apps/) with a mobile first design.
 
-- [O App](https://jponline.github.io/Clojurescript-and-Rails-Blog/)
-- [Código fonte](https://github.com/JpOnline/Clojurescript-and-Rails-Blog/)
+- [App](https://jponline.github.io/Clojurescript-and-Rails-Blog/)
+- [Source Code](https://github.com/JpOnline/Clojurescript-and-Rails-Blog/)
 
-| ![Blog App e protótipos gif](/site/assets/images/portfolio/blog_app_prototipos.gif){: .align-center} | 
+| ![Blog App and prototypes gif](/site/assets/images/portfolio/blog_app_prototipos.gif){: .align-center} | 
 |:--:| 
-| _**App** a esquerda e **protótipos interativos** à esquerda._ |
+| _**App** in the left and **interactives prototypes** in the right._ |
 
-Confira os [protótipos interativos](https://jponline.github.io/Clojurescript-and-Rails-Blog/cards#!/frontend.views_prototypes) realizados antes da conclusão do projeto, com eles é possível ter um feedback mais rápido sobre as espectativas da interface. Com diagramas de máquinas de estado também é possível ter um feedback sobre a interação do App como um todo.
+Take a look in the [interactive prototypes](https://jponline.github.io/Clojurescript-and-Rails-Blog/cards#!/frontend.views_prototypes) realizados antes da conclusão do projeto, com eles é possível ter um feedback mais rápido sobre as espectativas da interface. Com diagramas de máquinas de estado também é possível ter um feedback sobre a interação do App como um todo.
 
-| <img alt="state machine example" class="align-center" src="/site/assets/images/portfolio/state_machine.png"> | 
+| <img alt="State Machine diagram to help in the interface planning and implementation." class="align-center" src="/site/assets/images/portfolio/state_machine.png"> | 
 |:--:| 
-| _Diagrama de Estados que auxilia no planejamento e implementação da interface._ |
+| _State Machine diagram to help in the interface planning and implementation._ |
 
 ___
 
@@ -31,8 +43,7 @@ ___
 
 Criada para facilitar a montagem de treinamentos periodizados e também atender à todas as exigências e desafios que **personal trainers** possuem em seu dia a dia.
 
-- [Landing Page](http://periodiza.com/)
-- [App](https://app.periodiza.com/) (Login: "test@test.com", senha: "test123")
+[App](https://app.periodiza.com/) (Login: "test@test.com", senha: "test123")
 
 <img alt="Periodiza app" class="align-left" src="/site/assets/images/portfolio/periodiza.gif">
 
