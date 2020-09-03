@@ -3,7 +3,7 @@ main:
   - title: "Portfolio"
     url: /
   - title: "Blog"
-    url: https://github.com/JpOnline/blog
+    url: /posts
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
